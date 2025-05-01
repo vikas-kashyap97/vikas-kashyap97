@@ -8,8 +8,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B25&center=true&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;React+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B25&center=true&width=435&lines=Front-End+Developer;Gen+AI+Developer;a+Coder;UI+Designer;a+Creative+Thinker;a+Problem+Solver;an+Enthusiast+Learner;a+Web+Developer;a+Tech+Lover" alt="Typing SVG" />
 </div>
+
 
 ## 🚀 About Me
 
