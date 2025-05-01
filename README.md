@@ -17,17 +17,17 @@ I'm a passionate Frontend Developer from India, dedicated to building sleek, res
 
 ### 💡 Quick Highlights
 
-- 🔭 Currently working on [**React.js Pro**](https://github.com/princeessjay/React.js-Pro.git)
-- 🌱 Learning **Advanced JavaScript & React**
-- 👯 Looking to collaborate on **Frontend projects**
-- 💬 Ask me about **JavaScript, React, and Frontend Development**
+- 🔭 Currently working on [**LangChain models**](https://github.com/vikas-kashyap97/langchain_models.git)
+- 🌱 Learning **LangChain models are AI-powered components**
+- 👯 Looking to collaborate on **LLM projects**
+- 💬 Ask me about **JavaScript, React, AI, LangChain, LLM and Frontend Development**
 - 📫 **vikaskashyaprock@gmail.com**
 - 🎲 Fun fact: I turn coffee into clean, maintainable code! ☕💻
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,figma" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,sass,git,github,nodejs,azure,fastapi,firebase" alt="Tech Skills" />
 </div>
 
 ## 🌐 Let's Connect!
@@ -39,23 +39,11 @@ I'm a passionate Frontend Developer from India, dedicated to building sleek, res
   <a href="https://twitter.com/princeessjay" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://fb.com/vikas%20kashyap" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
 </div>
 
-## 📊 GitHub Insights
+## 🤖 Project Spotlight: LangChain models
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeessjay&theme=radical" alt="GitHub Profile Summary" width="100%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=princeessjay&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeessjay&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</div>
-
-## 🤖 Project Spotlight: React.js Pro
-
-🚀 **React.js Pro** is my latest project, focusing on mastering React best practices.
+🚀 **LangChain models are AI-powered components and apps** is my latest project, focusing on mastering LangChain best practices.
 
 ### Key Features
 - 🔥 High-performance UI with reusable components
