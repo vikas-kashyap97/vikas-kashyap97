@@ -4,7 +4,7 @@
   <img src="https://github.com/mehulsingh1010/mehulsingh1010/blob/main/coding-freak.gif?raw=true" alt="MasterHead" width="100%" style="border-radius: 15px;" />
 </div>
 <div align="center" style="background-color: #F8E7CB; padding: 20px; border-radius: 10px;">
-  <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="MasterHead" width="100%" />
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" width="100%" />
 </div>
 
 <div align="center">
