@@ -46,22 +46,14 @@ I'm Vikas Kashyap, a passionate Front-End & AI Developer from India, specializin
 
 🚀 LangChain models are AI-powered components and apps — my latest project, where I’m mastering LangChain best practices and building real-world AI apps powered by LLMs.
 
-Key Features
-🔥 AI + Front-End Fusion: High-performance UI seamlessly integrated with cutting-edge LLM models
-🎨 Styled with Tailwind CSS and SASS for pixel-perfect design
-🚀 Optimized for speed, scalability, and efficiency in AI workflows
-🔐 Secure authentication and robust data handling for production-ready AI apps
-🧠 Powered by LangChain, RAG pipelines, and prompt engineering for smarter AI responses
-🌐 Built for developers and businesses looking to leverage AI-driven solutions
-
 ### Key Features
 
-🔭 Currently working on advanced LangChain models and LLM-based solutions
-🌱 Learning and building with Retrieval-Augmented Generation (RAG) and AI prompt engineering
-👯 Looking to collaborate on impactful LLM and AI integration projects
-💬 Ask me about JavaScript, React, AI Integration, LangChain, Prompt Engineering, RAG, and Frontend Development
-📫 Reach out at vikaskashyaprock@gmail.com
-🎲 Fun fact: I turn coffee into clean, maintainable code and AI-driven solutions! ☕🤖💻
+- 🔭 Currently working on advanced LangChain models and LLM-based solutions
+- 🌱 Learning and building with Retrieval-Augmented Generation (RAG) and AI prompt engineering
+- 👯 Looking to collaborate on impactful LLM and AI integration projects
+- 💬 Ask me about JavaScript, React, AI Integration, LangChain, Prompt Engineering, RAG, and Frontend Development
+- 📫 Reach out at vikaskashyaprock@gmail.com
+- 🎲 Fun fact: I turn coffee into clean, maintainable code and AI-driven solutions! ☕🤖💻
 
 
 ## 📬 Visitor Count
