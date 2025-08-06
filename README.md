@@ -56,12 +56,6 @@ I'm Vikas Kashyap, a passionate Front-End & AI Developer from India, specializin
 - 🎲 Fun fact: I turn coffee into clean, maintainable code and AI-driven solutions! ☕🤖💻
 
 
-## 📬 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/princeessjay/count.svg" alt="Visitor Count" />
-</div>
-
 ---
 
 
